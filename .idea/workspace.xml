@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="096e3efa-83a4-4fbb-9313-9a7e583ca256" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Sort/shell.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Sort/shell.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sort/qucik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort/qucik.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +21,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Sort/bubbling.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="9" column="49" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="49" />
+            <state relative-caret-position="297">
+              <caret line="9" column="49" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -28,8 +30,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Sort/select.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="52" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="11" selection-end-column="52" />
+            <state relative-caret-position="363">
+              <caret line="11" column="52" selection-start-line="9" selection-start-column="8" selection-end-line="11" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -37,8 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Sort/insert.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="11" column="52" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="11" selection-end-column="52" />
+            <state relative-caret-position="363">
+              <caret line="11" column="52" selection-start-line="9" selection-start-column="8" selection-end-line="11" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -46,8 +48,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Sort/shell.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="33" selection-start-line="1" selection-end-line="33" />
+            <state relative-caret-position="588">
+              <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Sort/qucik.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="489">
+              <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -79,14 +90,15 @@
         <option value="$PROJECT_DIR$/src/Sort/select.java" />
         <option value="$PROJECT_DIR$/src/Sort/insert.java" />
         <option value="$PROJECT_DIR$/src/Sort/shell.java" />
+        <option value="$PROJECT_DIR$/src/Sort/qucik.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-150" />
-    <option name="y" value="35" />
-    <option name="width" value="1940" />
-    <option name="height" value="1050" />
+    <option name="x" value="1910" />
+    <option name="y" value="120" />
+    <option name="width" value="1939" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -95,7 +107,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,6 +129,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -144,7 +156,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.shell">
+  <component name="RunManager" selected="Application.qucik">
     <configuration name="bubbling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sort.bubbling" />
       <module name="DataStructure" />
@@ -171,12 +183,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.main" />
+    <configuration name="qucik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort.qucik" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="Sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,19 +223,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.main" />
       <item itemvalue="Application.bubbling" />
       <item itemvalue="Application.select" />
       <item itemvalue="Application.insert" />
       <item itemvalue="Application.shell" />
+      <item itemvalue="Application.qucik" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.qucik" />
         <item itemvalue="Application.shell" />
         <item itemvalue="Application.insert" />
         <item itemvalue="Application.select" />
         <item itemvalue="Application.bubbling" />
-        <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
   </component>
@@ -251,17 +263,21 @@
       <workItem from="1553937176767" duration="42000" />
       <workItem from="1553952065640" duration="1662000" />
       <workItem from="1553953815394" duration="17000" />
-      <workItem from="1554294674760" duration="4533000" />
+      <workItem from="1554294674760" duration="5153000" />
+      <workItem from="1554354318112" duration="6000" />
+      <workItem from="1555673453146" duration="4503000" />
+      <workItem from="1555849528136" duration="1189000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15923000" />
+    <option name="totallyTimeSpent" value="22241000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="1913" y="123" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30093834" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31300268" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -270,13 +286,13 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3493635" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34844193" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.33002833" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.33002833" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3281471" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
@@ -305,38 +321,39 @@
     <entry file="file://$PROJECT_DIR$/src/Array/MyArray.java" />
     <entry file="file://$PROJECT_DIR$/src/Array/Node.java" />
     <entry file="file://$PROJECT_DIR$/src/Array/HuffmanTree.java" />
-    <entry file="file://$PROJECT_DIR$/src/Array/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/main.java" />
     <entry file="file://$PROJECT_DIR$/src/Sort/bubbling.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="9" column="49" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="49" />
+        <state relative-caret-position="297">
+          <caret line="9" column="49" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Sort/select.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="52" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="11" selection-end-column="52" />
+        <state relative-caret-position="363">
+          <caret line="11" column="52" selection-start-line="9" selection-start-column="8" selection-end-line="11" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Sort/insert.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="11" column="52" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="11" selection-end-column="52" />
+        <state relative-caret-position="363">
+          <caret line="11" column="52" selection-start-line="9" selection-start-column="8" selection-end-line="11" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sort/qucik.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Sort/shell.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="33" selection-start-line="1" selection-end-line="33" />
+        <state relative-caret-position="588">
+          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
         </state>
       </provider>
     </entry>
