@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="096e3efa-83a4-4fbb-9313-9a7e583ca256" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Sort/shell.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Sort/shell.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sort/qucik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort/qucik.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,16 +34,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Sort/insert.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
+            <state relative-caret-position="-39">
               <caret line="11" column="52" selection-start-line="9" selection-start-column="8" selection-end-line="11" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Sort/shell.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="588">
@@ -266,16 +264,15 @@
       <workItem from="1554294674760" duration="5153000" />
       <workItem from="1554354318112" duration="6000" />
       <workItem from="1555673453146" duration="4503000" />
-      <workItem from="1555849528136" duration="1189000" />
+      <workItem from="1555849528136" duration="1606000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22241000" />
+    <option name="totallyTimeSpent" value="22658000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1913" y="123" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31300268" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -336,13 +333,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sort/insert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="11" column="52" selection-start-line="9" selection-start-column="8" selection-end-line="11" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Sort/qucik.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="489">
@@ -354,6 +344,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="588">
           <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sort/insert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-39">
+          <caret line="11" column="52" selection-start-line="9" selection-start-column="8" selection-end-line="11" selection-end-column="52" />
         </state>
       </provider>
     </entry>
