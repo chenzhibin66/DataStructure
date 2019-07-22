@@ -1,5 +1,3 @@
-package com.nuc.calvin;
-
 /**
  * 重构自己的数组
  *
@@ -93,7 +91,6 @@ public class Array<E> {
 
     /**
      * 重新分配空间
-     *
      * @param newCapacity
      */
     private void resize(int newCapacity) {
@@ -116,15 +113,6 @@ public class Array<E> {
         }
         return data[index];
     }
-
-    public E getLast() {
-        return get(size - 1);
-    }
-
-    public E getFirst() {
-        return get(0);
-    }
-
 
     /**
      * 查找数组中是否有元素e
