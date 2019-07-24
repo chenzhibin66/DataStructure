@@ -1,8 +1,16 @@
-package PACKAGE_NAME;
-
 /**
  * @author Calvin
  * @Description:
  */
-public interface Queue {
+public interface Queue<E> {
+
+    int getSize();
+
+    boolean isEmpty();
+
+    void enqueue(E e);
+
+    E dequeue();
+
+    E getFront();
 }

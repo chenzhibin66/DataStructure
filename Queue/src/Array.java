@@ -1,5 +1,3 @@
-package com.nuc.calvin;
-
 /**
  * 重构自己的数组
  *
